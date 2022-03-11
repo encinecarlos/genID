@@ -1,0 +1,11 @@
+C:\labs\genID\bin\Release\net6.0\publish\genID.exe
+C:\labs\genID\bin\Release\net6.0\publish\appsettings.Development.json
+C:\labs\genID\bin\Release\net6.0\publish\appsettings.json
+C:\labs\genID\bin\Release\net6.0\publish\genID.dll
+C:\labs\genID\bin\Release\net6.0\publish\genID.deps.json
+C:\labs\genID\bin\Release\net6.0\publish\genID.runtimeconfig.json
+C:\labs\genID\bin\Release\net6.0\publish\genID.pdb
+C:\labs\genID\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\labs\genID\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\labs\genID\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\labs\genID\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
